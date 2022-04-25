@@ -2,6 +2,3 @@
 # ------------------------------------------------------------------------------
 USE_DOCKER=yes
 IPYTHONDIR=/app/.ipython
-
-REDIS_URL=redis://:bajxOB79p5WDfj5r8t907tYrlfjFCEnP@redis-14744.c264.ap-south-1-1.ec2.cloud.redislabs.com:14744/0
-CELERY_BROKER_URL=redis://:bajxOB79p5WDfj5r8t907tYrlfjFCEnP@redis-14744.c264.ap-south-1-1.ec2.cloud.redislabs.com:14744/0
